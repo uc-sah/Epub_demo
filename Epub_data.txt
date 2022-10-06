@@ -1,0 +1,211 @@
+[[*:s:new-ch01:1:1]]
+[[title: Chapter 1
+The Basics of SHRM Certification
+
+Exam Notables
+
+Look around, look around, at how lucky we are to be alive right now.
+
+<i>Lin-Manuel Miranda from</i> Hamilton: An American Musical
+
+As this book will highlight, organizations of all sizes are experiencing tremendous changes and challenges. By reading through these pages, you will discover that we are entering the fourth industrial revolution. The way that work is structured is changing. The challenge to find qualified talent is consistent across all industries. Front-loading education at the beginning of a career through college and university studies is no longer serving long-term talent needs. Social justice is driving change. These are just some examples used to make one point: the strategies and solutions to our world of work run straight through human resource (HR) systems. This is an exciting time to be in HR!
+
+Certification provides a consistent standard of knowledge and a common language through which to practice HR. When HR pros are certified, we align with our organizations and our industry to define strategy and deliver results. Although the individual achievement of becoming certified is important, the collective impact of a group of professionals aimed toward the same targets&#8212;using similar tools, best practices, and shared values&#8212;is immeasurable.
+
+The Society for Human Resource Management&#39;s Certified Professional (SHRM CP) and Senior Certified Professional (SHRM SCP) exams are recognized by employers across the globe for their excellence. This is because preparing for the exams helps HR professionals become stronger resources for their teams, accelerate career earnings, and build a strategic mindset that serves both people and results.
+
+Exam Overview
+The Society for Human Resource Management (SHRM) is one of the premier agencies responsible for promoting the industry of HR management over the last 70 years. Their purpose, mission, and vision are noted on their website, <code><a class="link-icon" target="_blank" href="http://www.shrm.org">www.shrm.org</a></code>, and illustrate why they exist:
+
+Our purpose is to elevate the HR profession. Our mission is to empower people and workplaces by advancing HR practices and by maximizing human potential. Our vision is to build a world of work that works for all.
+
+SHRM accomplishes these things in several ways, including through education. In addition to the case studies and learning modules that were already a part of their educational initiatives in 2015, SHRM launched their own professional certification exams.
+
+The SHRM Certified Professional (SHRM CP) exam is described by SHRM as appropriate for applicants who have operational experience in human resources. This includes roles with responsibilities described with verbs such as &#8220;implement,&#8221; &#8220;execute,&#8221; &#8220;support,&#8221; and &#8220;perform.&#8221; The SHRM Senior Certified Professional (SHRM SCP) is a good choice for individuals with job responsibilities that &#8220;design,&#8221; &#8220;advise,&#8221; &#8220;oversee,&#8221; and &#8220;align.&#8221; Here are the exam descriptions from SHRM&#39;s website to help you decide:
+
+<b>SHRM CP</b>
+
+This credential is designed for HR professionals who are engaged primarily in operational roles&#8212;implementing policies, serving as the HR point of contact for staff and stakeholders, and/or performing day-to-day HR functions.
+
+<b>SHRM SCP</b>
+
+The SHRM-SCP certification is designed for HR professionals at a senior level who operate primarily in a strategic role&#8212;developing policies and strategies, overseeing the execution of HR operations, analyzing performance metrics, and/or contributing to the alignment of HR strategies to organizational goals.
+
+The SHRM CP had a pass rate in 2021 of about 67 percent, and the SCP exam had a pass rate of 51 percent. These numbers have remained consistent for each exam over the annual testing windows.
+
+[[*:s:new-O120:2:1]]
+[[title: Exam Eligibility
+
+Both exams have eligibility requirements that are based on education and work experience. Note that title does not matter; rather, the important thing is the work being performed. Table 1.1 shows the eligibility requirements for both exams. As you review the table, consider the following:
+<ul><li>One year of experience is equivalent to 1,000 hours of HR work performed in the calendar year. If you are in a blended role, at least 1,000 hours of your work must be HR-related to be counted toward this requirement.</li>
+<li>Experience can be exempt or nonexempt.</li>
+<li>The category &#8220;less than a bachelor&#39;s degree&#8221; includes working toward a degree, some college, qualifying HR certificate program, high school diploma, or GED.</li></ul>
+
+<figure class="uc-figure"><img src="images/warning.png" alt="Warning" /><figcaption></figcaption></figure>
+&#160;&#160;&#160;Individuals who have felony convictions are not eligible for certification if their conviction affects their suitability for an HR role.
+
+<table class="uc-table table-bordered sorttable table10"><caption>TABLE 1.1: Exam eligibility criteria</caption><thead><tr><th rowspan="2">
+Type of credential</th><th colspan="2">Less than a bachelor&#39;s degree</th><th colspan="2">Bachelor&#39;s degree</th><th colspan="2">Graduate degree</th></tr><tr><th>HR program</th><th>Non-HR Program</th><th>HR program</th><th>Non-HR Program</th><th>HR program</th><th>Non-HR Program</th></tr></th><tbody><tr><td><i>SHRM CP</i></td><td>3 years HR experience</td><td>4 years HR experience</td><td>1 year HR experience</td><td>2 years HR experience</td><td>Current role</td><td>1 year HR experience</td></tr><tr><td><i>SHRM SCP</i></td><td>6 years HR experience</td><td>7 years HR experience</td><td>4 years HR experience</td><td>5 years HR experience</td><td>3 years HR experience</td><td>4 years HR experience</td></tr></tbody></table>
+
+<figure class="uc-figure"><img src="images/tip.png" alt="TIP" /><figcaption></figcaption></figure>
+&#160;&#160;&#160;Take a moment to download SHRM&#39;s Certification Handbook. It is here that you will find answers to <i>non-content</i>-related exam questions. It is free of charge and an important resource. Find the most current version at <code><a class="link-icon" target="_blank" href="https://www.shrm.org/certification">https://www.shrm.org/certification</a></code>.
+
+[[*:s:new-O121:2:1]]
+[[title: Exam Basics
+
+In addition to getting your mind ready to take a professional-level exam, there are some practical considerations. For example, testing for both exams is only offered twice a year. The exam windows are spring and winter. You will need to select when you plan to test and then register by the deadline. Figure 1.1 highlights the main steps on the path to certification.
+
+[[*:f:new-115:2:1:]]
+[[title: My Portal
+
+Your main point for all things exam-related is SHRM&#39;s website. This is where you will first need to create your account and register for the exam that you choose. This step is crucial. Many HR pros believe that they should sit for the exam for which they are most eligible, and this logical approach is often successful. It is also okay to treat certification as a journey that builds upon itself. This approach allows for maximum retention of the exam concepts, which is useful to ensure that the learning achieved through the preparation process adequately transfers to your job.
+
+You will need a few things to ready your application for the test. This includes your full name as shown on your legal identification and your work history, along with the descriptions of your tasks, duties, and responsibilities. SHRM conducts random audits of applications to ensure that they are truthful. Submitting false information is grounds for denial.
+
+<figure class="uc-figure"><img src="images/c01f001.png" alt="An illustration of certification steps" /><figcaption>FIGURE 1.1: Certification steps</figcaption></figure>
+[[*:f:new-116:2:1:]]
+[[title: Exam Fees
+
+Two fees apply at this stage of the application process: the processing fee and the exam fee. The application processing fee is &#36;50&#8211;&#36;75 and is nonrefundable. Although you do not have to be a member of SHRM to take their exams, members enjoy a discount on the exam fee. The exam fee for SHRM members is &#36;300 USD, and for nonmembers the exam fee is &#36;400 USD. All fees must be paid at the time of the application.
+
+[[*:f:new-117:2:1:]]
+[[title: Computer-Based Testing
+
+A Prometrics Testing Center is where you will take your exam. Once you have received your authorization to test (ATT), you will be directed to their website to find a location near you and to schedule the test date and time. We recommend that you do this as soon as possible! More on this process is covered in <a class="link-icon" target="_blank" href="c02.xhtml">Chapter 2</a>, &#8220;Preparing for the Exam.&#8221;
+
+Each exam is 4 hours in length and includes 160 multiple-choice questions.
+
+[[*:s:new-O122:2:1]]
+[[title: Exam Language and Accommodations
+
+If Spanish is your native language, SHRM offers the exam at least once a year in Spanish. An advantage is that that you may gain a better understanding of question context if you aren&#39;t having to translate, which in turn saves time and increases understanding. A disadvantage is that most preparation materials, including the SHRM Learning System and other practice tests, are written in English.
+
+Reasonable accommodations for physical or mental disabilities are also made throughout the entire certification process, including at the testing center. The application form will have a place to make the request(s) and note any supporting documentation requirements. SHRM will never require a copy of medical records. Requests for accommodations must be made at the time the application is submitted.
+
+[[*:f:new-118:2:1:]]
+[[title: Question Type
+
+Each exam item is written to measure application or knowledge. Figure 1.2 breaks down the item by type and distribution.
+
+Situational judgment items are written to measure your ability to apply your behavior or knowledge competencies. You will know a situational judgment item when the item &#8220;places&#8221; you within a realistic scenario. These question types begin by describing the situation, details (both relevant and irrelevant), and the issue at hand. Here is an example of a situational judgment item:
+
+<ol><li>An HR manager of a technology start-up has heard rumors from the customer service manager that the head of R&#38;D is pushing projects through too quickly, causing quality defects. The customer service manager thinks this is because the R&#38;D team gets higher incentive pay if they deliver early on a project timeline. The manager knows that a team meeting will not be possible; these managers do not naturally get along. Which of the following strategies would work best to investigate?
+<ol><li>Conduct individual interviews with each manager.</li>
+<li>Talk to the R&#38;D manager&#39;s employees to see if the rumors are true.</li>
+<li>Check in with the quality department to collect data related to product defects.</li>
+<li>Nothing. Line managers should have complete autonomy.</li></ol>
+The best answer is A, conducting individual interviews. This is because in this scenario, the HR manager is only hearing rumors. Thus, to take action immediately would be premature. If HR goes directly to the line manager&#39;s team members, they are compromising trust and potentially undermining the department head, so option B is not correct. Option C, checking in with the quality department, may be a good course of action if, after interviewing the managers, HR discovers more than just rumors. HR teams serve as advisers and support for all departments and must be able to design and deliver HR programs that drive quality results, so option D is incorrect.</li></ol>
+
+<figure class="uc-figure"><img src="images/c01f002.png" alt="An illustration of item content distribution and type." /><figcaption>FIGURE 1.2: Item content distribution and type</figcaption></figure>
+Foundational knowledge items are designed to measure the key concept items of the behavioral competencies. HR-specific knowledge items are designed to measure the key concepts and proficiencies described throughout the functional area section of the exam BoCK. A foundational knowledge question would look something like this on the exams:
+
+<ol><li>Which of the following is the best example of the principled approach to negotiation?
+<ol><li>A focus on solution, not the problem</li>
+<li>A focus on individual interests</li>
+<li>A focus on the problem at hand, not personal interests</li>
+<li>A focus on minimizing the compromises of each party</li></ol>
+The best answer is C. In principled negotiation, the parties focus on the problem at hand and what is best for the situation, not what is best for the individual (option B). This shift in focus will allow the parties to understand what compromises (option D) may be necessary to produce a win-win solution. In a negotiation, there cannot be a focus on the solution without understanding the problem, so option A is incorrect.</li></ol>
+
+The SHRM Exam Objectives
+
+If everything is important, then nothing is.
+
+<i>Patrick Lencioni,</i> Silos, Politics and Turf Wars<i>, Jossey-Bass, 2006</i>
+
+As with all instructional design, it is important to understand the goal of the training effort&#8212;what results are we trying to achieve? An exam objective is similar in that it describes the focus of each section. For this reason, one of the primary tools that you should use to study for these exams is SHRM&#39;s Body of Competency and Knowledge (BoCK). This foundational document describes the content that will be measured on the tests. The good news is that this means that you have the framework from which to prepare and keep your focus clear. The challenge is that the BoCK can be cumbersome to navigate. A few reasons for this are as follows:
+<ul><li>It is 70 pages in length.</li>
+<li>It is organized with multiple layers.</li>
+<li>Several terms are used interchangeably.</li>
+<li>It can be difficult to differentiate between the CP proficiencies and the SCP proficiencies.</li></ul>
+
+[[*:s:new-O123:2:1]]
+[[title: Breaking Down the BoCK
+
+As with any professional domain, human resources has its own language. For the purposes of the exam, there are specific terms related to what is being measured. This is important, because the exams will test you on knowledge and application of that knowledge. The macro view is that the BoCK is organized into three sections:
+<ul><li><b>Section 1:</b> Behavioral competencies</li>
+<li><b>Section 2:</b> HR/technical expertise</li>
+<li><b><a class="link-icon" target="_blank" href="b01.xhtml">Appendix A</a>:</b> Glossary of key HR terms</li></ul>
+The BoCK references <a class="link-icon" target="_blank" href="b02.xhtml">Appendix B</a>, a 36-page list of resources that is available via download. These resources are sorted into general, competency-based, and HR expertise books and articles that can help get you prepared.
+
+The BoCK does not teach content. For this reason, you will need multiple resources (such as this book) to learn what you need to know for success on exam day. Preparation is covered in more detail in <a class="link-icon" target="_blank" href="c02.xhtml">Chapter 2</a>.
+
+<figure class="uc-figure"><img src="images/tip.png" alt="TIP" /><figcaption></figcaption></figure>
+&#160;&#160;&#160;You can find the exam Body of Competency and Knowledge (BoCK) as well as other downloadable resources at <code><a class="link-icon" target="_blank" href="http://www.shrm.org">www.shrm.org</a></code>. There is only one document for both the CP and the SCP exams. I recommend printing out or saving an easily accessible copy of the BoCK and using it to orient your studying. In short, it should be at the center of all your preparation efforts.
+
+There are specific terms used throughout the BoCK that are part of the framework, not the exams. It is important to understand these terms, however, so that the way the BoCK is organized does not detract from your learning.
+
+[[*:f:new-119:2:1:]]
+[[title: Competencies
+
+<i>Competencies</i> are groups of highly interrelated <i>knowledge, skills, abilities, and other (KSAOs)</i> that are necessary for successful performance in HR. Competencies are both behavioral (what we do) and technical (what we know).
+
+Behavioral Competencies
+As shown in Figure 1.3, there are three clusters of the <i>behavioral competencies</i> and their relevant sub-competencies, which are Leadership, Interpersonal, and Business. The behavioral competencies are reviewed in greater depth in <a class="link-icon" target="_blank" href="c04.xhtml">Chapter 4</a>, &#8220;The Business Competency Cluster,&#8221; and throughout the relevant chapters in <a class="link-icon" target="_blank" href="p03.xhtml">Part 3</a>, &#8220;The People Knowledge Domain,&#8221; of this book to help you connect the behavioral competencies with the technical expertise necessary to pass the exam.
+
+<figure class="uc-figure"><img src="images/c01f003.png" alt="Schematic illustration of SHRM's behavioral competencies" /><figcaption>FIGURE 1.3: SHRM&#39;s behavioral competencies</figcaption></figure>
+Technical Competencies
+<i>Technical competencies</i> refer to the three knowledge domains identified in SHRM&#39;s model. They include People, Organization, and Workplace. Figure 1.4 shows the functional areas covered within each of these knowledge domains.
+
+<figure class="uc-figure"><img src="images/c01f004.png" alt="Schematic illustration of HR functional areas" /><figcaption>FIGURE 1.4: HR functional areas</figcaption></figure>
+Technical competencies are referred to within the BoCK and this book by the terms <i>HR expertise</i>, <i>knowledge domains</i>, <i>knowledge competencies</i>, and <i>functional areas</i>.
+
+Within each functional area, SHRM describes what knowledge an HR professional should have at various stages of their career. Remember, these exams have experience requirements that determine eligibility to take the test, so a baseline of knowledge gained through experience is already assumed to be present. The BoCK sorts these technical components as follows:
+<ul><li><b><b>Key Concepts</b>:</b>&#160;&#160;&#160;The general knowledge necessary as it relates to the functional area. CP and SCP exam takers must be able to apply this general knowledge.</li>
+<li><b><b>Proficiency Indicators</b>:</b>&#160;&#160;&#160;Statements that describe the behaviors and attributes a professional should have at certain points in their career. CP candidates are expected to have deep knowledge of the first set of proficiency indicators, labeled &#8220;For All HR Professionals.&#8221; SCP candidates are expected to have a thorough understanding of the first category, along with the content found under the second category, labeled &#8220;For Advanced HR Professionals.&#8221;</li></ul>
+
+[[*:f:new-120:2:1:]]
+[[title: Acronyms
+
+As experienced HR practitioners, you well know the comprehensive use of acronyms within our field. The exams are no exception. Although memorization of acronyms is not the main purpose of the tests, you will see them throughout the BoCK and in the question items. Table 1.2 is a list of the most likely acronyms that you will encounter on the test and throughout this book.
+
+<table class="uc-table table-bordered sorttable table10"><caption>TABLE 1.2: Common HR acronyms</caption><tbody><tr><td>ADDIE</td><td>Analysis, design, development, implementation, evaluation</td><td>HRM</td><td>Human resource management</td></tr><tr><td>ADA</td><td>Americans with Disabilities Act</td><td>KPI</td><td>Key performance indicator</td></tr><tr><td>ADEA</td><td>Age Discrimination in Employment Act</td><td>KSAO</td><td>Knowledge, skills, abilities, and other characteristics</td></tr><tr><td>ADR</td><td>Alternative dispute resolution</td><td>LMRA</td><td>Labor Management Reporting Act</td></tr><tr><td>ATS</td><td>Applicant tracking system</td><td>M&#38;A</td><td>Merger and acquisition</td></tr><tr><td>CHRO</td><td>Chief human resource officer</td><td>MNC</td><td>Multinational corporation</td></tr><tr><td>COBRA</td><td>Consolidated Omnibus Budget Reconciliation Act</td><td>NLRA</td><td>National Labor Relations Act</td></tr><tr><td>COO</td><td>Chief operating officer</td><td>NLRB</td><td>National Labor Relations Board</td></tr><tr><td>CSR</td><td>Corporate social responsibility</td><td>OSHA</td><td>Occupational Safety and Health Act/Administration</td></tr><tr><td>EAP</td><td>Employee assistance program</td><td>PESTLE</td><td>Political, economic, social, technological, legal, and environmental</td></tr><tr><td>EEOC</td><td>Equal Employment Opportunity Commission</td><td>PPACA</td><td>Patient Protection and Affordable Care Act</td></tr><tr><td>EPA</td><td>Equal Pay Act</td><td>PTO</td><td>Paid time off</td></tr><tr><td>ERISA</td><td>Employee Retirement Income Security Act</td><td>ROI</td><td>Return on investment</td></tr><tr><td>EVP</td><td>Employee value proposition</td><td>SWOT</td><td>Strengths, weaknesses, opportunities, threats</td></tr><tr><td>FCRA</td><td>Fair Credit Reporting Act</td><td>UGESP</td><td>Uniform Guideline on Employee Selection Procedures</td></tr><tr><td>FLSA</td><td>Fair Labor Standards Act</td><td>ULP</td><td>Unfair Labor Practice</td></tr><tr><td>FMLA</td><td>Family Medical Leave Act</td><td>WARN</td><td>Worker Adjustment and Retraining Notification</td></tr><tr><td>GINA</td><td>Genetic Information Nondiscrimination Act</td><td/>
+<td/></tr><tr><td>HIPPA</td><td>Health Insurance Portability and Accountability Act</td><td/>
+<td/></tr><tr><td>HRBP</td><td>HR business partner</td><td/>
+<td/></tr></tbody></table>
+
+The Value of HR Certification
+In Ricklyn Woods&#39;s fabulous podcast, titled &#8220;So You Want to Work in HR?,&#8221; she interviews HR professionals at all stages of their career to hear about their experiences in our field (Apple Podcasts). Many of the guests share that HR certification was not only a personal goal, but a defining moment in their career. This is not just because of pride of achievement. The process of preparing for these exams makes the individual better at their jobs, regardless of a pass or fail on exam day.
+
+Not all growth, however, is equal. There are degrees of growth that are dependent on several factors, such as test anxiety, commitment to the preparation process, work experience, and selecting the right exam&#8212;all topics covered throughout <a class="link-icon" target="_blank" href="p01.xhtml">Part I</a> of this book, &#8220;Preparing for the Exams.&#8221;
+
+PayScale, a compensation research organization, collects data every few years or so to determine the value of HR certification. Their last survey of more than 100,000 HR professionals was published in 2018. Key findings included the following:
+<ul><li>About 30 percent of HR professionals are certified.</li>
+<li>Certified professionals enjoy a pay boost of about 30 percent compared to their noncertified counterparts.</li></ul>
+These two factors combined mean one very important thing: achieving certification makes you more competitive in the HR world. Download the full survey, &#8220;The 2018 Market Value of HR Certifications for HR Pros,&#8221; which includes statistics by industry and by certification type, at <code><a class="link-icon" target="_blank" href="https://www.payscale.com/hr/worth-it-infographic">https://www.payscale.com/hr/worth-it-infographic</a></code>.
+
+<figure class="uc-figure"><img src="images/globally.png" alt="Global" /><figcaption></figcaption></figure>
+Real World Scenario
+
+[[*:s:new-O124:2:1]]
+[[title: Is It Worth It?
+
+The question &#8220;Is it worth it?&#8221; is difficult to answer, because everybody has different outcomes that they value. For this reason, I share my personal thoughts and experience here.
+
+I did not have the opportunity to go to college right out of high school. For someone with drive and potential, a lack of education was a barrier&#8212;both real in terms of the jobs that I wanted but wasn&#39;t qualified for and perceived in terms of my own self-esteem. I limited myself most by feeling inferior to others who did have a college degree. HR certification was the equalizer. Once I had the required years of experience, it was only a matter of time before I passed the PHR, and then the SPHR (exams administered by the Human Resource Certification Institute), was grandfathered in through tutorial to the SHRM SCP, and then recertified by exam. Achieving these certifications gave me confidence and built my knowledge and skill sets so that I began having more success in my work. In fact, I would not have had the opportunity to write these books, support others on their journey toward certification, and coach leaders and teams&#8212;my absolute passions&#8212;if I didn&#39;t have my HR and other credentials.
+
+Getting certified changed my perspective, from thinking that &#8220;school just wasn&#39;t for me,&#8221; to believing that I was smart enough, capable enough, and worth enough to finish what I started. As a lifelong learner, I realized that it did not matter that it took me 30 years (almost to the day of my high school graduation) to finish my master&#39;s degree. Certification was the mechanism for a shift in mindset, the key to overriding my own hardwiring and limiting beliefs to activate more of my potential. For me, it truly was life changing and definitely worth it.
+
+Summary
+The fourth industrial revolution is here, and it is about much more than digital innovation. We are living in an era ripe with possibilities of how to shape and re-shape business practices. Many of the forces demanding these shifts require human resources solutions. These solutions are built within the functional areas covered on the SHRM CP and SCP exams administered by the Society for Human Resource Management.
+
+Understanding the basics to certification is the first step on your journey toward the credentials. The SHRM Certification Handbook and the exam Body of Competency and Knowledge are must-have resources as you get organized. These documents are found on SHRM&#39;s website, and it is here where you will create the portal where you will manage the entire credentialing process.
+
+Becoming certified is a mark of professional excellence that has multiple value, not the least of which is our industry&#39;s ability to influence collective action through shared knowledge and competencies and the career-enhancing value that those credentials bring.
+
+Key Terms
+Behavioral competencies
+
+Competencies
+
+Technical competencies
+
+Exam Essentials
+<b>Become familiar with the Society for Human Resource Management website.</b>&#160;&#160;&#160;SHRM&#39;s website, <code><a class="link-icon" target="_blank" href="http://www.shrm.org/certification">www.shrm.org/certification</a></code>, is where you will create your certification portal and find answers to many of your questions that will come up during this process. This is also where you will log your recertification activities to maintain your credentials over time.
+
+<b>Select the right exam.</b>&#160;&#160;&#160;HR at all professional levels will benefit from getting prepared for either the Certified Professional or the Senior Certified Professional exam. If your work experience has been mostly operational, the CP may be best. If strategy has been your focus, consider instead the SCP.
+
+<b>Choose multiple preparation resources.</b>&#160;&#160;&#160;In addition to the exam Body of Competency and Knowledge (BoCK), it is imperative that you access multiple resources to prepare for these exams. <a class="link-icon" target="_blank" href="c02.xhtml">Chapter 2</a> is focused on getting ready for exam day.
+
+<b>Orient studying to the exam Body of Competency and Knowledge.</b>&#160;&#160;&#160;Although the BoCK does not teach content, it is the road map to what will be tested on the exam. Be familiar with the different types of competencies that will be measured, along with the glossary of terms that bring context to exam items.
+
+<b>Know your values and value.</b>&#160;&#160;&#160;Once the process is over, most HR professionals are happy that they chose to get certified. This is for many reasons, including personal achievement, accelerated career earnings, and upskilling. Take a few moments to understand your own reasons for taking the exam and what you value the most about these credentials. Perhaps most important is to remind yourself why you are worth the investment. As one of the amazing individuals in my network said to me at a turning point in my own HR career, &#8220;Burn the bridges that no longer serve you. I have matches. We ride at dawn.&#8221; (Becky Lee, <code><a class="link-icon" target="_blank" href="https://qaffect.co">https://qaffect.co</a></code>)
